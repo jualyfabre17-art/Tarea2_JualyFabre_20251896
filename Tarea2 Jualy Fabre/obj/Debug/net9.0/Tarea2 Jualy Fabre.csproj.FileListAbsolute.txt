@@ -1,0 +1,14 @@
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\bin\Debug\net9.0\Tarea2 Jualy Fabre.exe
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\bin\Debug\net9.0\Tarea2 Jualy Fabre.deps.json
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\bin\Debug\net9.0\Tarea2 Jualy Fabre.runtimeconfig.json
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\bin\Debug\net9.0\Tarea2 Jualy Fabre.dll
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\bin\Debug\net9.0\Tarea2 Jualy Fabre.pdb
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\Tarea2 Jualy Fabre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\Tarea2 Jualy Fabre.AssemblyInfoInputs.cache
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\Tarea2 Jualy Fabre.AssemblyInfo.cs
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\Tarea2 Jualy Fabre.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\Tarea2 Jualy Fabre.dll
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\refint\Tarea2 Jualy Fabre.dll
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\Tarea2 Jualy Fabre.pdb
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\Tarea2 Jualy Fabre.genruntimeconfig.cache
+C:\Users\UserGPC\Desktop\Programacion 1\Only_Prog1\Tarea2 Jualy Fabre\Tarea2 Jualy Fabre\obj\Debug\net9.0\ref\Tarea2 Jualy Fabre.dll
